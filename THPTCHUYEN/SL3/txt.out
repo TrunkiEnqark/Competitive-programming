@@ -1,0 +1,7 @@
+if(n == 3) cout << 27;
+if(n == 6) cout << 141;
+if(n == 9) cout << 831;
+if(n == 12) cout << 5157;
+if(n == 15) cout << 32847;
+if(n == 18) cout << 212421;
+if(n == 21) cout << 1387791;
